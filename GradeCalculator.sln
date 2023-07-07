@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeCalculator", "GradeCalculator.csproj", "{8B063E4F-D213-40CB-B1D0-E4C19F252F88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeCalculatorUnitTest", "..\GradeCalculatorUnitTest\GradeCalculatorUnitTest.csproj", "{85E8909F-F501-4635-89B7-B21E87AE0AEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8B063E4F-D213-40CB-B1D0-E4C19F252F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B063E4F-D213-40CB-B1D0-E4C19F252F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B063E4F-D213-40CB-B1D0-E4C19F252F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85E8909F-F501-4635-89B7-B21E87AE0AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E8909F-F501-4635-89B7-B21E87AE0AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E8909F-F501-4635-89B7-B21E87AE0AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E8909F-F501-4635-89B7-B21E87AE0AEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
